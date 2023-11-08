@@ -90,6 +90,10 @@ button:active:after {
   opacity: 1;
   transition: 0s;
 }
+button:active {
+  background-color: #265429;
+  color: #9bc53d;
+}
 
 @media (min-width: 700px) {
   body {
