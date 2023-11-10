@@ -28,6 +28,8 @@ h1 {
   text-align: center;
   border-radius: 8px;
   box-shadow: 1px 0 10px rgba(22, 38, 46, 0.2);
+  max-width: 550px;
+  min-width: 360px;
 }
 h4 {
   color: #55a1b4;
@@ -106,6 +108,8 @@ button:active {
     margin-bottom: 2em;
   }
   .activity-holder {
+    min-width: 500px;
+    max-width: 600px;
     padding: 3em;
   }
   button {
